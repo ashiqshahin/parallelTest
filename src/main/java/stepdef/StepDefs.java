@@ -1,4 +1,4 @@
-package parallel;
+package stepdef;
 
 import io.cucumber.java.en.Given;
 
